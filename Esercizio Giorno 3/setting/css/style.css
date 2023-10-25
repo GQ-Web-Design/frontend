@@ -1,0 +1,61 @@
+/*
+CSS DOCUMENT
+AUTHOR: Gianluca Quaranta
+NAME: style.css
+URL: https://www.gianlucaquaranta.com
+*/
+
+body{
+    /*width: 100%;*/
+    text-align: center;
+    margin: 8px 0px 8px 0px;
+}
+header{
+    padding: 10px;
+}
+.logo {
+    width: 181px;
+    height: 55px;
+}
+.container{
+    border-top: solid #FEE9B3;
+    background-color: #FDFBF1;
+    padding: 4px 0px 4px 0px;
+}
+article{
+    width: max-content;
+    margin-left: 30%;
+}
+.sottotitolo{
+    color: #004C4B;
+    background-color: #FDFBF1;
+}
+video{
+    border-radius: 10px;
+}
+figcaption{
+    color: #979797;
+}
+.sottoarticolo{
+    text-align: left;
+    margin-left: 7%;
+    border-left: solid #FFD469;
+    padding-left: 15px;
+}
+.sottoarticolo span{
+    color: #B84C18;
+}
+.sottoarticolo a, .footerarticolo a{
+    color: #0F7676;
+}
+h2{
+    border-bottom: 1px solid #C4F3F2;
+    text-align: left;
+    margin-left: 7%;
+    padding-bottom: 15px;;
+}
+
+.titololista, .footerarticolo, ul, ol, .descrizione{
+    text-align: left;
+    margin-left: 7%;
+}
