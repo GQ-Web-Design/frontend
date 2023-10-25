@@ -17,7 +17,7 @@ header{
     width: 181px;
     height: 55px;
 }
-.container{
+.sottotitolo{
     border-top: solid #FEE9B3;
     background-color: #FDFBF1;
     padding: 4px 0px 4px 0px;
@@ -26,7 +26,7 @@ article{
     width: max-content;
     margin-left: 30%;
 }
-.sottotitolo{
+.sottotitolo p{
     color: #004C4B;
     background-color: #FDFBF1;
 }
