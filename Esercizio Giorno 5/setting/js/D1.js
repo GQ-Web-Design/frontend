@@ -85,6 +85,8 @@ var z = 4;
 var sottrazione = x - z;
 console.log(sottrazione);
 
+console.log(x - 4);
+
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -95,5 +97,5 @@ console.log(sottrazione);
 
 var name1 = "john";
 var name2 = "John";
-let test = name1 === name2;
-console.log(test)
+console.log(name1 === name2);
+console.log(name1 === name2.toLowerCase());
